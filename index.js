@@ -12,7 +12,7 @@ function johnLennonFacts(arrFact)
   }
 
   return arrFact;
-}
+};
 function iLoveTheBeatles(num)
 {
   var msg=[];
