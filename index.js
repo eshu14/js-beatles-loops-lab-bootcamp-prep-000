@@ -17,9 +17,7 @@ function iLoveTheBeatles(num)
 {
   var msg=[];
   do{
-      msg.assign({},"I love the Beatles!");
+      msg="I love the Beatles!";
       num++;
-      
-
   }while(num<=15);
 }
